@@ -1,0 +1,11 @@
+<litepal>
+    <dbname value="danpipiweather"/>
+
+    <version value="1"/>
+
+    <list>
+        <mapping class="com.example.administrator.danpipiweather.db.Province"/>
+        <mapping class="com.example.administrator.danpipiweather.db.City"/>
+        <mapping class="com.example.administrator.danpipiweather.db.Country"/>
+    </list>
+</litepal>
